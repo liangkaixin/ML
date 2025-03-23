@@ -1,3 +1,5 @@
 git config --global core.editor vim
 
 git config --global user.email "2651414696@qq.com"
+
+token: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
